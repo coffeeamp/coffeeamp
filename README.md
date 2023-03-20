@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&section=header&text=Coffeeamp_Git%20hub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&section=header&text=Coffeeamp_Git%20hub&fontSize=70" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
